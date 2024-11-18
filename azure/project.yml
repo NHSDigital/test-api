@@ -1,0 +1,8 @@
+variables:
+  - group: status-endpoint
+  - name: service_name
+    value: test-api
+  - name: short_service_name
+    value: ta
+  - name: service_base_path
+    value: test-api
